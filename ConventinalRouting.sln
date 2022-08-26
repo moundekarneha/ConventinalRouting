@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConventinalRouting", "ConventinalRouting\ConventinalRouting.csproj", "{1BB436A4-7BE0-47CA-AE96-6DCFC2CD188B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BB436A4-7BE0-47CA-AE96-6DCFC2CD188B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BB436A4-7BE0-47CA-AE96-6DCFC2CD188B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BB436A4-7BE0-47CA-AE96-6DCFC2CD188B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BB436A4-7BE0-47CA-AE96-6DCFC2CD188B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B07AFD1-5EEE-4BE8-A363-61927E191EBD}
+	EndGlobalSection
+EndGlobal
